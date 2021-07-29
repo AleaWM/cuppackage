@@ -1,0 +1,191 @@
+Borough,Area Name/Zip Code,"Total Recruits per 100,000",Percent Persons of Color
+,,,
+,Bronx,56,70%
+,Brooklyn,36,59%
+,Manhattan,7,46%
+,Queens,1,56%
+,Staten Island,2,22%
+,New York City,22,55%
+M,Fur-Flower District,12,36%
+M,Chinatown/Lower East Side,20,74%
+M,Cooper Square/Union Square,4,23%
+M,Battery/Governors Island,80,30%
+M,Wall Street,0,36%
+M,Trinity,67,21%
+M,City Hall,0,29%
+M,East Village/Stuyvesant Town,12,40%
+M,Madison Square/Cooper Village,4,22%
+M,Chelsea,9,18%
+M,Village/Noho/Soho,4,28%
+M,Tribeca/Chinatown,12,56%
+M,Greenwich Village,3,12%
+M,Murray Hill,4,22%
+M,Grand Central/United Nations,6,23%
+M,Garment District,0,46%
+M,Midtown/Clinton,17,26%
+M,Rockefeller Center,0,0%
+M,Lenox Hill,2,10%
+M,Sutton Place/Beekman Place,7,10%
+M,Lincoln Center/Ansonia,8,18%
+M,Upper West Side,8,17%
+M,Cathedral,14,38%
+M,"Central Harlem, South",29,91%
+M,Manhattanville,20,75%
+M,Yorkville,2,9%
+M,"East Harlem, South",36,73%
+M,"Central Harlem, Middle",46,96%
+M,Hamilton Heights,35,86%
+M,South Washington Heights,25,81%
+M,Washington Heights,43,65%
+M,Inwood,26,69%
+M,"East Harlem, Middle",34,80%
+M,Theatre District/Clinton,11,33%
+M,"East Harlem, North",29,98%
+M,South St. Seaport/Chinatown,32,52%
+M,"Central Harlem, North",32,94%
+M,North Washington Heights,24,69%
+M,Roosevelt Island,21,50%
+BX,Yorkville,0,17%
+BX,Battery Park City,0,25%
+BX,New Brighton/Grymes Hill,36,42%
+BX,Port Richmond,55,39%
+BX,Mariners Harbour/Point Ivory,26,58%
+BX,Stapleton/Fox Hills,33,48%
+BX,Rosebank,34,17%
+BX,New Dorp/Richmondtown,18,8%
+BX,Tottenville,25,5%
+BX,Great Kills,22,6%
+BX,Princes Bay/Woodrow,22,8%
+BX,West New Brighton,44,38%
+BX,Eltingville/Annadale,12,7%
+BX,Castleton Corners/New Springvill,28,18%
+BX,Melrose,49,81%
+BX,Highbridge,75,83%
+BX,Morris Heights,65,84%
+BX,Mott Haven/Port Morris,51,76%
+BX,The Hub/Longwood,51,76%
+BX,Morrisania,61,86%
+BX,Tremont/East Tremont,33,83%
+BX,Belmont/Fordham/Bedford Park,37,69%
+BX,Longwood/Morrisania,64,76%
+BX,West Farms/Crotona,47,76%
+BX,Westchester/Morris Park,32,27%
+BX,Parkchester/Van Nest,46,62%
+BX,Kingsbridge (full),28,45%
+BX,City Island,0,11%
+BX,Throgs Neck/Country Club,49,21%
+BX,Wakefield,29,88%
+BX,Norwood/Williamsbridge,38,70%
+BX,University Heights,38,75%
+BX,Williamsbridge/Baychester,47,73%
+BX,Woodlawn/Wakefield,38,46%
+BX,Riverdale/Fieldston,13,22%
+BX,Soundview,33,73%
+BX,Clasons Point,50,77%
+BX,Hunts Point,44,75%
+BX,Co-op City/Eastchester,26,73%
+BX,Floral Park,,
+BX,Glen Oaks,0,40%
+BX,Long Island City/Hunters Point,0,59%
+BX,Old Astoria,3,48%
+BX,Astoria,11,37%
+BX,Sunnyside,44,43%
+BX,Steinway,19,29%
+BX,Ravenswood,14,49%
+BK,Brooklyn Heights/Cobble Hill,21,37%
+BK,East Flatbush,55,97%
+BK,Parkville/Bensonhurst,17,26%
+BK,Fort Greene,48,77%
+BK,Williamsburg/Bedford-Stuyvesant,33,75%
+BK,East New York,51,91%
+BK,Cypress Hills,58,85%
+BK,Bay Ridge,17,23%
+BK,Vanderveer/Flatbush,48,68%
+BK,Williamsburg,13,37%
+BK,Brownsville,67,97%
+BK,Brower Park/Crown Heights,63,87%
+BK,Bath Beach/Bensonhurst,22,28%
+BK,Park Slope/Windsor Terrace,10,32%
+BK,Bedford-Stuyvesant,42,98%
+BK,Park Slope/Gowanus,34,51%
+BK,Kensington/Windsor Terrace,20,44%
+BK,Borough Park,15,28%
+BK,Sunset Park,30,65%
+BK,Bushwick/Bedford-Stuyvesant,46,91%
+BK,Greenpoint,25,20%
+BK,Gravesend/Homecrest,29,27%
+BK,Coney Island,53,44%
+BK,Crown Heights,61,93%
+BK,Flatbush,55,93%
+BK,Dyker Heights,20,19%
+BK,Homecrest/Madison,24,25%
+BK,Midwood,16,27%
+BK,Carroll Gardens/Red Hook,9,37%
+BK,Industry City/Sunset Park,40,57%
+BK,Stuyvesant Heights,62,96%
+BK,Flatlands/Mill Basin,30,42%
+BK,Sheepshead Bay/Brighton Beach,31,23%
+BK,Canarsie,49,82%
+BK,Bushwick,25,73%
+BK,Prospect Heights,33,83%
+BK,Starrett City,48,62%
+Q,Flushing,33,60%
+Q,Flushing/Murray Hill,25,73%
+Q,College Point,35,31%
+Q,Whitestone,28,17%
+Q,Auburndale,29,35%
+Q,Bay Terrace,26,21%
+Q,Bayside,20,36%
+Q,Little Neck,17,28%
+Q,Douglaston,29,29%
+Q,Oakland Gardens/Bayside Hill,17,40%
+Q,Fresh Meadows,19,47%
+Q,Utopia/Fresh Meadows,22,52%
+Q,Kew Garden Hills,8,38%
+Q,Corona,30,64%
+Q,East Elmhurst,33,71%
+Q,Jackson Heights-Rikers Island(Queens only),20,45%
+Q,Jackson Heights-Rikers Island (Bronx only),0,88%
+Q,Jackson Heights,27,49%
+Q,Elmhurst,30,67%
+Q,Rego Park,35,34%
+Q,Forest Hills,14,28%
+Q,Woodside,24,58%
+Q,Maspeth,38,18%
+Q,Middle Village,24,11%
+Q,Ridgewood/Glendale,35,35%
+Q,Cambria Heights,51,97%
+Q,St. Albans,64,98%
+Q,Springfield Gardens/Laurelton,59,97%
+Q,Howard Beach,18,8%
+Q,Kew Gardens,9,36%
+Q,Ozone Park/Woodhaven,29,58%
+Q,Ozone Park,43,48%
+Q,Richmond Hill,46,59%
+Q,South Richmond Hill,47,82%
+Q,South Ozone Park,44,79%
+Q,Woodhaven,35,52%
+Q,Rosedale,40,87%
+Q,Hollis/Holliswood,45,81%
+Q,Bellerose,43,39%
+Q,Queens Village/Creedmoor,9,65%
+Q,Queens Village,24,72%
+Q,Queens Village (South),66,94%
+Q,JFK Airport,0,83%
+Q,Jamaica/Hillcrest,25,72%
+Q,South Jamaica,63,98%
+Q,Rochdale/Baisley Park,49,98%
+Q,Jamaica Hills/South Jamaica,26,73%
+Q,South Ozone Park,50,99%
+Q,Far Rockaway,27,70%
+Q,Arverne,69,84%
+Q,Hammels/Broad Channel,18,42%
+Q,Seaside/Belle Harbour/Neponsit,16,13%
+Q,Rockaway Point/Roxbury,0,1%
+,,,
+,,,
+,Sources,,
+,www.CounterRecruitmentGuide.org,,
+,www.infoshare.org,,
+,www.nationalpriorities.org,,
+,www.radicalmath.com,,
