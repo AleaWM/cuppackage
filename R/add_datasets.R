@@ -10,3 +10,6 @@ usethis::use_data(recruits)
 
 # install package created
 #devtools::install_github("AleaWM/cuppackage")
+
+broward <- read_csv("BrowardDisasters.csv")
+usethis::use_data(broward)
