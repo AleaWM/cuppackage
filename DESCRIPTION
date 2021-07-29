@@ -4,8 +4,8 @@ Title: PPOL105 Datasets
 Version: 0.1.0
 Author: Alea Wilbur
 Maintainer: The package maintainer <awilbu2@uic.edu>
-URL: https://github.com/AleaWM/cuppackage.git
-Description: This is a practice package for consolidating the datasets to be used in PPOL 105 in one place.
-License: What license is it under?
+URL: https://github.com/AleaWM/cuppackage
+Description: This is a package for consolidating the datasets to be used in PPOL 105 in one place.
+License: CCO
 Encoding: UTF-8
 LazyData: true
