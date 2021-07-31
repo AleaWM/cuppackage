@@ -35,4 +35,18 @@
 "broward"
 
 
+#' Anacombe's Qaurtets (1973)
+#'
+#' Contains 4 x-y datasets in long format.
+#' Have same mean,variance, correlation, regression line, etc.
+#' But look very different.
+#'
+#' @format A data frame with 44 observations and 3 variables
+#' \describe{
+#'   \item{group}{a categorical identifier for the quartet}
+#'   \item{x}{a continuous variable}
+#'   \item{y}{a continuous variable}
+#' }
+#' @source \url{}
+"quartets"
 

@@ -51,3 +51,6 @@ usethis::use_data(claimssummary)
 
 wealth <- read.table(file = "clipboard", sep = "\t", header = TRUE)
 usethis::use_data(wealth)
+
+quartets <- as.data.frame(stevedata::quartets)
+usethis::use_data(quartets)
