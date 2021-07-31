@@ -27,3 +27,6 @@
 #
 # texastemperature <- read.table(file = "clipboard", sep = "\t", header = TRUE)
 # usethis::use_data(texastemperature)
+
+wealth <- read.table(file = "clipboard", sep = "\t", header = TRUE)
+usethis::use_data(wealth)
